@@ -1,0 +1,7 @@
+node_modules/
+dist/
+config.json
+blocklist.json
+
+proxy.db
+proxy.db-journal
